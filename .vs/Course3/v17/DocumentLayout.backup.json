@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\workspace\\Course3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|D:\\unity\\workspace\\Course3\\assets\\scripts\\controllermusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllermusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|D:\\unity\\workspace\\Course3\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|D:\\unity\\workspace\\Course3\\assets\\scripts\\handcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|d:\\unity\\workspace\\course3\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|d:\\unity\\workspace\\course3\\assets\\pbrmeleeweaponspack\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|solutionrelative:assets\\pbrmeleeweaponspack\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|D:\\unity\\workspace\\Course3\\assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27B80F87-D9AB-3844-9003-9588BA63A4D5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "D:\\unity\\workspace\\Course3\\Assets\\PBRMeleeWeaponsPack\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PBRMeleeWeaponsPack\\Scripts\\CameraMovement.cs",
+              "ToolTip": "D:\\unity\\workspace\\Course3\\Assets\\PBRMeleeWeaponsPack\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\PBRMeleeWeaponsPack\\Scripts\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:58:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:35:57.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerMusic.cs",
+              "DocumentMoniker": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\ControllerMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControllerMusic.cs",
+              "ToolTip": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\ControllerMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControllerMusic.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:11:20.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:10:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "handController.cs",
+              "DocumentMoniker": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\handController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\handController.cs",
+              "ToolTip": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\handController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\handController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:10:51.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hand.cs",
+              "DocumentMoniker": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\hand.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\hand.cs",
+              "ToolTip": "D:\\unity\\workspace\\Course3\\Assets\\Scripts\\hand.cs",
+              "RelativeToolTip": "Assets\\Scripts\\hand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvysAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:10:29.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
